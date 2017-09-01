@@ -1,0 +1,4 @@
+---
+# vars file for nginx-magent2
+# XXX
+php_fpm: "unix:/run/php/php7.0-fpm.sock"
