@@ -54,4 +54,4 @@ galaxy_info:
     #       Maximum 20 tags per role.
 
 dependencies:
-  - nobreach.nginx_handlers
+  - ysz.nginx-handlers
